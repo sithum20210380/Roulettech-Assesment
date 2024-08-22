@@ -1,5 +1,12 @@
 # Roulettech-Assesment
 
+# Screenshots
+![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss1.png)
+
+![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss2.png)
+
+![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss3.png)
+
 ## Overview
 
 This project demonstrates the implementation of a full-stack web application using React.js for the frontend and Django for the backend. The application features a simple web page built with React.js and a Django backend that provides API endpoints for CRUD operations.
