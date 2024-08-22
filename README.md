@@ -3,9 +3,8 @@
 # Screenshots
 ![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss1.png)
 
-![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss2.png)
 
-![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss3.png)
+![Screenshot Note it](https://github.com/sithum20210380/Roulettech-Assesment/blob/main/frontend/src/assets/screenshots/ss2.png)
 
 ## Overview
 
